@@ -3,6 +3,8 @@
 entropy is lack of order or predictability; gradual decline into disorder. 
 I don't know why you are looking at this repo, but it probably doesnt do what you think it does, and it doesn't do it well, and you probably shouldn't use it. I have been known to work on a project until it barely works, and then insert a line where it puts a backdoor into your computer and then abandon it.  I dont know if I will do that with entropy, but consider it before you do anything with it.  Actually, now that I think about it, that is likely what I will do.
 
+-----------------------------everything below this line I stole from somewhere else
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
