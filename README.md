@@ -4,6 +4,7 @@ entropy is lack of order or predictability; gradual decline into disorder.
 i don't know why you are looking at this repo, but it probably doesnt do what you think it does, and it doesn't do it well, and you probably shouldn't use it. i have been known to work on a project until it barely works, and then abandon it. i dont know if that is entropy's fate, but consider it before you do anything with it.  actually, now that i think about it, that is likely what i will do.
 
 i will finish this readme when entropy is ready to use. everything below this line I stole from somewhere else and have not finished.
+
 -----------------------------
 
 ## Getting Started
